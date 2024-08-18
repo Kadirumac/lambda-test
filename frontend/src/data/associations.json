@@ -1,0 +1,235 @@
+{
+  "header": {
+    "logo": "assets/sia-png/logo-no-background.png",
+    "title": "Sosyal ilk Adim",
+    "navLinks": [
+      { "text": "Ana Sayfa", "href": "index.html#hero", "class": "active" },
+      {
+        "text": "Dernekler",
+        "dropdown": [
+          {
+            "text": "Gönüllü Hizmetler",
+            "href": "dernek.html#freiwilligendienste",
+            "id": "freiwilligendienste"
+          },
+          {
+            "text": "Çocuk Bakımı",
+            "href": "dernek.html#kinderbetreuung",
+            "id": "kinderbetreuung"
+          },
+          {
+            "text": "Yaşlı Bakımı",
+            "href": "dernek.html#seniorenbetreuung",
+            "id": "seniorenbetreuung"
+          },
+          {
+            "text": "Dil Tandemi",
+            "href": "dernek.html#sprachtandem",
+            "id": "sprachtandem"
+          },
+          {
+            "text": "Mültecilere Yardım",
+            "href": "dernek.html#hilfefurfluchtlinge",
+            "id": "hilfefurfluchtlinge"
+          },
+          {
+            "text": "Çevre Koruma ve Temizlik",
+            "href": "dernek.html#umweltschutzundreinigung",
+            "id": "umweltschutzundreinigung"
+          },
+          {
+            "text": "Hayvan Barınağı",
+            "href": "dernek.html#tierheim",
+            "id": "tierheim"
+          },
+          {
+            "text": "Spor Kulübü",
+            "href": "dernek.html#sportverein",
+            "id": "sportverein"
+          }
+        ]
+      },
+      { "text": "Hakkımızda", "href": "index.html#about" },
+      { "text": "Dernekler", "href": "dernek.html", "class": "d-lg-none" },
+      { "text": "İletişim", "href": "index.html#contact" }
+    ],
+    "ctaText": "Sosyal Medya Linkleri",
+    "ctaHref": "#footer"
+  },
+  "sections": [
+    {
+      "id": "freiwilligendienste",
+      "title": "Yardım Kuruluşları",
+      "items": [
+        {
+          "title": "Caritas - Freiwilligendienste",
+          "description": "Caritas, dünya genelinde sosyal yardım ve gönüllülük faaliyetleri yapan bir kuruluştur. Almanya'da da etkin olan Caritas, Freiwilligendienst programıyla sosyal hizmet alanında gönüllülere fırsatlar sunar, topluma yardım eder ve toplumsal sorumluluk bilincini artırır.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.caritas.de/glossare/freiwilligendienste"
+        },
+        {
+          "title": "Diakoni - Freiwilligendienste",
+          "description": "Diakoni, kiliselerin sosyal yardım alanında aktif olduğu, dezavantajlı gruplara destek veren, adalet ve sevgi temelli bir toplum hizmetidir. Yardımseverlik, eşitlik ve dayanışmayı teşvik ederek insanlara umut ve iyilik sunar.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.diakonie-portal.de/freiwilligendienste"
+        },
+        {
+          "title": "Technisches Hilfswerk - Ehrenamtlich engagieren",
+          "description": "Technisches Hilfswerk (THW), Almanya'da halkın güvenliğini sağlayan federal bir kuruluştur. Doğal afetlerde, arama-kurtarma operasyonlarında, teknik olaylarda görev alarak mühendislik ve teknik becerileriyle yardım eder.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://jetzt.thw.de/"
+        },
+        {
+          "title": "Kızılhaç (Rotes Kreuz)",
+          "description": "İnsani yardım ve sağlık hizmetleri sağlayan bir kuruluş.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.drk.de"
+        },
+        {
+          "title": "Aşevi (Suppenküche)",
+          "description": "Evsizlere ve ihtiyaç sahiplerine ücretsiz yemek dağıtan kuruluşlar.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.tafel.de"
+        },
+        {
+          "title": "Sığınma Evleri (Frauenhaus)",
+          "description": "Kadınlara ve çocuklara şiddet mağdurlarına yardım eden kuruluşlar.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.frauenhauskoordinierung.de"
+        },
+        {
+          "title": "Johanniter-Unfall-Hilfe (JUH)",
+          "description": "Johanniter-Unfall-Hilfe (JUH), Almanya merkezli önde gelen bir insani yardım kuruluşudur...",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.johanniter.de/"
+        },
+        {
+          "title": "Freiwillige Feuerwehr (Gönüllü İtfaiye)",
+          "description": "Almanya'da Gönüllü İtfaiye, Alman yangın söndürme ve afet koruma sisteminin merkezi bir parçasıdır...",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.berliner-feuerwehr.de/ueber-uns/freiwillige-feuerwehr/"
+        }
+      ]
+    },
+    {
+      "id": "kinderbetreuung",
+      "title": "Çocuk Bakıcılığı (Kinderbetreuung)",
+      "items": [
+        {
+          "title": "Elterninitiative",
+          "description": "Ebeveynler tarafından oluşturulan yerel inisiyatifler aracılığıyla çocuk bakıcılığı hizmeti sunma.",
+          "linkText": "Yakınlarda ara",
+          "linkHref": "https://www.elterninitiativen.de"
+        },
+        {
+          "title": "Familienzentrum",
+          "description": "Aile odaklı merkezlerde çocuk bakıcılığı ve ebeveyn destek programları.",
+          "linkText": "Yakınlarda ara",
+          "linkHref": "https://www.familienzentrum.de"
+        }
+      ]
+    },
+    {
+      "id": "seniorenbetreuung",
+      "title": "Yaşlı Bakımı (Seniorenbetreuung)",
+      "items": [
+        {
+          "title": "Seniorenheim",
+          "description": "Yaşlı bakım evlerinde gönüllü olarak zaman geçirme ve yardım etme.",
+          "linkText": "Yakınlarda ara",
+          "linkHref": "https://www.bundesverband-seniorenwohnen.de"
+        },
+        {
+          "title": "Seniorenclub",
+          "description": "Yaşlılara sosyal etkileşim ve etkinlikler sağlayan topluluk merkezleri.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.senioren-portal.de"
+        }
+      ]
+    },
+    {
+      "id": "sprachtandem",
+      "title": "Dil Tandemleri (Sprachtandem)",
+      "items": [
+        {
+          "title": "Tandem-Partner finden",
+          "description": "Dil öğrenmek isteyenlerle iletişim kurabileceğiniz bir platform.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.tandempartner.net"
+        },
+        {
+          "title": "Sprachcafé",
+          "description": "Dil etkinliklerine katılarak insanlarla pratik yapma ve dil becerilerinizi geliştirme.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.sprachcafe.org"
+        }
+      ]
+    },
+    {
+      "id": "hilfefurfluchtlinge",
+      "title": "Mültecilere Yardım (Hilfe für Flüchtlinge)",
+      "items": [
+        {
+          "title": "Integrationsprojekte",
+          "description": "Mültecilere entegrasyon süreçlerinde yardımcı olmak için projeler.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.integration-in-deutschland.de"
+        },
+        {
+          "title": "Sprachunterricht",
+          "description": "Mültecilere Almanca öğretme ve dil eğitimi sağlama.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.refugeephrasebook.de"
+        }
+      ]
+    },
+    {
+      "id": "umweltschutzundreinigung",
+      "title": "Çevre Koruma ve Temizlik Faaliyetleri (Umweltschutz und Reinigung)",
+      "items": [
+        {
+          "title": "Naturschutzprojekte",
+          "description": "Çevre projelerine katılım ve doğal alanları koruma",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.bund.net"
+        },
+        {
+          "title": "Clean-Up Aktionen",
+          "description": "Çevre temizliği etkinliklerine katılma ve atık toplama.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.cleanupnetwork.com"
+        }
+      ]
+    },
+    {
+      "id": "tierheim",
+      "title": "Hayvan Barınaklarında Gönüllü Çalışmak (Tierheim)",
+      "items": [
+        {
+          "title": "Tierschutzverein",
+          "description": "Hayvanları koruma ve barınaklarda gönüllü olarak çalışma",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.tierschutzverein.de"
+        },
+        {
+          "title": "Pfotentraum",
+          "description": "Evsiz hayvanlara yardım eden hayvan barınakları.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": "https://www.pfotentraum.de"
+        }
+      ]
+    },
+    {
+      "id": "sportverein",
+      "title": "Spor Kulüplerinde Antrenörlük veya Yönetim Görevleri (Sportverein)",
+      "items": [
+        {
+          "title": "Sportverein in deiner Stadt",
+          "description": "Yerel spor kulüplerine katılım ve antrenörlük için iletişim. Örneğin, Berlin'deki spor kulüpleri şeklinde arama yapabilirsiniz.",
+          "linkText": "Daha Fazla Bilgi",
+          "linkHref": ""
+        }
+      ]
+    }
+  ]
+}
